@@ -1,10 +1,13 @@
-#Photo Exif Grabber
+# Photo Exif Grabber
+
+![This is an image](https://github.com/hyper-lynn/photoexifgrabber/blob/main/photo's%20exif%20grabber/assests/images/test.png)
+
 
 **find image location and get metadata with Python3**
 
 
 
-##Usage
+## Usage
 >pip install requirments.txt
 
 >python app.py
