@@ -1,0 +1,4 @@
+tk
+GPSPhoto
+Pillow
+tkintermapview
